@@ -1,4 +1,4 @@
 const fruits = {
     apple: red,  
-    age: 32 
+    age: 3
 }
